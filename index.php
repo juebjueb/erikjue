@@ -40,21 +40,21 @@
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner" align="center">
 				<div class="carousel-item active">
-				  <img src="..meter-mix.png" alt="meter-mix device" height="400">
+				  <img src="meter-mix.PNG" alt="meter-mix device" height="400">
 				  <div class="carousel-caption">
 					<p>measure, mix, dispense</p>
 				  </div>
 				</div>
 				
 				<div class="carousel-item">
-				  <img src="autoNAAT.png" alt="automated nucleic acid amplification testing" height="400">
+				  <img src="autoNAAT.PNG" alt="automated nucleic acid amplification testing" height="400">
 				  <div class="carousel-caption">
 					<p>20 min automated testing</p>
 				  </div>
 				</div>
 				
 				<div class="carousel-item">
-				  <img src="cellphone.png" alt="cell phone fluorescence" height="400">
+				  <img src="cellphone.PNG" alt="cell phone fluorescence" height="400">
 				  <div class="carousel-caption">
 					<p>point-of-care fluorescence imager</p>
 				  </div>
@@ -101,7 +101,7 @@
 				<p> EJ_CurriculumVitae.docx </p>
 				
 				<hr/>
-				<p> <a href="https://www.linkedin.com/in/erikjue/"><img src="linkedin.png" alt="linkedIn" width="25" height="25"></a></p>
+				<p> <a href="https://www.linkedin.com/in/erikjue/"><img src="linkedin.PNG" alt="linkedIn" width="25" height="25"></a></p>
 				
 			</div>
 			<div class="col-7">
