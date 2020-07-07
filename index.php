@@ -40,7 +40,7 @@
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner" align="center">
 				<div class="carousel-item active">
-				  <img src="meter-mix.png" alt="meter-mix device" height="400">
+				  <img src="..meter-mix.png" alt="meter-mix device" height="400">
 				  <div class="carousel-caption">
 					<p>measure, mix, dispense</p>
 				  </div>
