@@ -102,7 +102,7 @@
 				
 				<hr/>
 				<h6 class="font-weight-bold"> SOCIAL: </h6>
-				<p> <a href="https://www.linkedin.com/in/erikjue/"><img src="linkedin.PNG" alt="linkedIn" width="25" height="25"></a></p>
+				<p> <a href="https://www.linkedin.com/in/erikjue/"><img src="linkedinlogo.PNG" alt="linkedIn" width="25" height="25"></a></p>
 				
 			</div>
 			<div class="col-7 col-lg-8" >
