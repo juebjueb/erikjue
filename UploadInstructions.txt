@@ -1,0 +1,6 @@
+Open CMD
+
+cd to git directory
+git add .
+git commit -m “A message describing the changes made”
+git push heroku master
