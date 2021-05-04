@@ -1,6 +1,9 @@
-Open CMD
+Download Git
+Open GitCMD
+
+Clone from GitHub
 
 cd to git directory
 git add .
 git commit -m “A message describing the changes made”
-git push heroku master
+git push
